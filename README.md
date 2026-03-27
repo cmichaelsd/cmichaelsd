@@ -4,7 +4,7 @@ This is a place to store stuff I have built in my free time.
 Circuitry, Virtual Machine, Compiler, Assembler - parts of a series I was following along to on how to build a computer from scratch.
 
 I'm going through now and focusing on system design concepts.
-This can be seen in WebScraper a fully AWS hosted API, Worker, Infra multi-language project.
+This can be seen in WebScraper a fully AWS hosted API, Worker, Infra - a multi-repo project.
 
 
 Main technology focuses:
