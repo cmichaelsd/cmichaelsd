@@ -8,6 +8,7 @@ This can be seen in WebScraper a fully AWS hosted API, Worker, Infra multi-langu
 
 
 Main technology focuses:
+
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
