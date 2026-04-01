@@ -15,3 +15,4 @@ Main technology focuses:
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg"></code>
+<code><img height="64" src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg"></code> (btw)
